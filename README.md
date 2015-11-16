@@ -1,6 +1,8 @@
 # Preparing the ISO
+Grab archlinux iso before starting
 ```sh
-# Grab archlinux iso from http://www.gnu.org/software/grub/grub-download.html
+# Get the grub source code
+# http://www.gnu.org/software/grub/grub-download.html
 git clone git://git.savannah.gnu.org/grub.git
 
 cd grub
